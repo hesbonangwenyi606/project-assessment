@@ -13,6 +13,10 @@ export default function Footer() {
           <p className="mt-2 text-sm text-neutral-300">
             Discover smart deals, save on everyday favorites, and shop with confidence.
           </p>
+          <div className="mt-4 space-y-1 text-sm text-neutral-300">
+            <p>Phone: +254 725 929654</p>
+            <p>Email: dianjeruto@gmail.com</p>
+          </div>
         </div>
 
         <div className="grid gap-6 sm:grid-cols-3">
